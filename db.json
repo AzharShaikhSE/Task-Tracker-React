@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Learn React",
+      "day": "July 1st 2022 at 9:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Learn FireStore",
+      "day": "July 7th 2022 at 9:00 AM",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Learn Big Query",
+      "day": "July 21st 2022 at 9:00 AM",
+      "reminder": false
+    }
+  ]
+}
